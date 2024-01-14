@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Добавление Ярлыка</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Мета-теги для определения иконки и внешнего вида ярлыка -->
+    <link rel="apple-touch-icon" href="https://github.com/Pavel-Aleksandrovich/iconOnline/blob/main/fashion_design_muslim_higab_stule_app_icon_dd02cfd7-168b-47ab-8b8d-9299bfdfd49f-2.png?raw=true">
+    <meta name="apple-mobile-web-app-title" content="Название Ярлыка">
+</head>
+<body>
+    <h1>Добавьте Ярлык на Рабочий Экран</h1>
+    <p>Нажмите на кнопку действия в Safari и выберите 'Добавить на рабочий экран'.</p>
+</body>
+</html>
